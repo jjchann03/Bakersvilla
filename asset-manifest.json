@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bakersvilla/static/css/main.06c92d2f.css",
+    "main.js": "/Bakersvilla/static/js/main.da8b4659.js",
+    "static/js/453.8ab44547.chunk.js": "/Bakersvilla/static/js/453.8ab44547.chunk.js",
+    "static/media/BlackMango-Bold.ttf": "/Bakersvilla/static/media/BlackMango-Bold.5c733e94961c7b53eed0.ttf",
+    "static/media/BlackMango-ExtraBold.ttf": "/Bakersvilla/static/media/BlackMango-ExtraBold.5015d80a04d923689cc4.ttf",
+    "static/media/BlackMango-Light.ttf": "/Bakersvilla/static/media/BlackMango-Light.f2d2a2a293747f33f7c3.ttf",
+    "static/media/BlackMango-Medium.ttf": "/Bakersvilla/static/media/BlackMango-Medium.544b23ffe5e3f5ccd8bd.ttf",
+    "static/media/BlackMango-ExtraLight.ttf": "/Bakersvilla/static/media/BlackMango-ExtraLight.43b34c2c2d72732480f1.ttf",
+    "static/media/BlackMango-Regular.ttf": "/Bakersvilla/static/media/BlackMango-Regular.93e0b8cb943e082319e4.ttf",
+    "static/media/BlackMango-SemiBold.ttf": "/Bakersvilla/static/media/BlackMango-SemiBold.2f30e745e332ef0a6b92.ttf",
+    "index.html": "/Bakersvilla/index.html",
+    "main.06c92d2f.css.map": "/Bakersvilla/static/css/main.06c92d2f.css.map",
+    "main.da8b4659.js.map": "/Bakersvilla/static/js/main.da8b4659.js.map",
+    "453.8ab44547.chunk.js.map": "/Bakersvilla/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c92d2f.css",
+    "static/js/main.da8b4659.js"
+  ]
+}
