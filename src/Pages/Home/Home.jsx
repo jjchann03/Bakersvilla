@@ -32,11 +32,11 @@ export default function Home(){
         <div className='home-body'>
             <Header data={data}/>
 
-            <section id='home-learnwithus' className='flex flex-col justify-center items-center my-8 w-full'>
+            {/* <section id='home-learnwithus' className='flex flex-col justify-center items-center my-8 w-full'>
                 <h1 className='text-[1.5rem] ph:text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[4rem] font-bold text-[#843F20] mb-2 sm:mb-4'>Learn <span className='text-[#ECBFAB]'>With Us</span></h1>
                 <p className='text-[#757575] w-11/12 ph:w-10/12 sm:w-8/12 text-[0.6rem] ph:text-xs md:text-sm lg:text-base text-center mb-4'>Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum r</p>
                 <CircleCarousel data={carousel1}/>
-            </section>
+            </section> */}
 
             <section id='home-aboutus' className='flex flex-col justify-center items-center my-8'>
                 <h1 className='text-[4rem] font-bold text-[#843F20] mb-4'>About Us</h1>
